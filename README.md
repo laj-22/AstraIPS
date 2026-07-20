@@ -205,7 +205,7 @@ Public datasets lack MQTT-specific command injection context. A custom high-fide
 3.  **Contrastive Learning:** Enforced a **4:1 Benign-to-Malicious ratio**.
     *   For every attack, 4 benign variants (e.g., safe piping, admin tools) were generated to force the model to learn **intent**.
 
-**Total Corpus:** ~37,000 High-Fidelity Samples.
+**Total Corpus:** ~33,847 High-Fidelity Samples.
 
 ---
 
